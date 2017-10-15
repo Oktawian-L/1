@@ -18,6 +18,7 @@ namespace MVC_1.Controllers
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
+
         public AccountController()
         {
         }
